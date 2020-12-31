@@ -1,0 +1,22 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+C:\Users\eduuu\Desktop\folder\Lab_4_2_par\lab_4_2_par.gpr
+20201231075424 7ff42d64791308e5cddf623adacd7d6e
+[BOUND OBJECT FILES]
+C:\Users\eduuu\Desktop\folder\Lab_4_2_par\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LC:\Users\eduuu\Desktop\folder\Lab_4_2_par\obj\
+-LC:\Users\eduuu\Desktop\folder\Lab_4_2_par\obj\
+-LC:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/libgnarl.a
+C:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/libgnat.a
+-Xlinker
+--stack=0x200000,0x1000
+-mthreads
